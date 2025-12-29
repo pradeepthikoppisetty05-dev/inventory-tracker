@@ -24,28 +24,9 @@ A simple PHP-based inventory management system for tracking items, suppliers, an
 - XAMPP installed on your system
 - Web browser (Chrome, Firefox, Edge, etc.)
 
-### Setup Steps
 
-1. **Install XAMPP**
-   - Download from https://www.apachefriends.org/
-   - Install with default settings
-   - Start Apache and MySQL from XAMPP Control Panel
 
-2. **Create Project Folder**
-   - Navigate to `C:\xampp\htdocs\` (Windows) or `/Applications/XAMPP/htdocs/` (Mac)
-   - Create folder named `inventory-tracker`
-   - Copy all project files to this folder
-
-3. **Create Database**
-   - Open browser and go to `http://localhost/phpmyadmin`
-   - Click "New" to create database
-   - Database name: `inventory_tracker`
-   - Click on the database
-   - Go to "SQL" tab
-   - Copy and paste the SQL from `database.sql` file
-   - Click "Go" to execute
-
-4. **Access Application**
+**Access Application**
    - Open browser
    - Navigate to: `http://localhost/inventory-tracker/`
    - You should see the dashboard
@@ -160,7 +141,7 @@ inventory-tracker/
 
 ## Author
 
-Developed as a PHP Developer Assignment
+Developed as a PHP Web Developer Assignment
 
 ## License
 
